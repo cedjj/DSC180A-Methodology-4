@@ -1,4 +1,4 @@
-Cedric Jeng, cejeng@ucsd.edu
+Cedric Jeng, cejeng@ucsd.edu\
 D42, Bijan Arbab
 
 **1. What is the most interesting topic covered in your domain this quarter?**
